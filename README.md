@@ -1,4 +1,4 @@
-# python_party
+# Python Summer Party 
 Python summer party by Interview Master &amp; in partnership with DataCamp
 
 Home page of Python Summer Party: [Link](https://www.interviewmaster.ai/python-party/home)
